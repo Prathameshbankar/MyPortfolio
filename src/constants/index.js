@@ -8,7 +8,9 @@ technology. Expertise lies in logic building, and as a developer, there’s a ke
 latest technologies to create efficient and scalable applications. Enthusiasm for continuous learning and staying
 updated with industry trends drives a constant pursuit of skill improvement and delivering high-quality results.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Hello, I’m Prathamesh, a passionate web developer with a strong foundation in front-end technologies, including React.js, HTML, CSS, JavaScript, and Tailwind CSS. I am constantly learning and improving my skills in web development and enjoy exploring new tools and frameworks.
+
+In my free time, I enjoy reading and playing, and I’m always open to taking on new challenges that help me grow both professionally and personally. My goal is to create innovative, user-friendly web applications and build a dynamic online presence with my portfolio.`;
 
 
 export const PROJECTS = [
