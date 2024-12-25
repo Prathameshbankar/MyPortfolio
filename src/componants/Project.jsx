@@ -12,7 +12,7 @@ function Project() {
             <img
               src={pro}
               alt="Project 1"
-              className="w-full h-52 object-cover rounded-lg"
+              className="w-full h-52 rounded-lg"
             />
           </div>
           <p className="mb-4 text-gray-300">
@@ -28,7 +28,7 @@ function Project() {
             <img
               src={erp}
               alt="Project 1"
-              className="w-full h-52 object-cover rounded-lg"
+              className="w-full h-52  rounded-lg"
             />
           </div>
           <p className="mb-4 text-gray-300">
@@ -43,7 +43,7 @@ function Project() {
             <img
               src={crop}
               alt="Project 1"
-              className="w-full h-52 object-cover rounded-lg"
+              className="w-full h-52 rounded-lg"
             />
           </div>
           <p className="mb-4 text-gray-300">
