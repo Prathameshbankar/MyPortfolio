@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram,FaTwitter  } from "react-icons/fa";
 
 function Navbar() {
   return (
@@ -11,17 +11,18 @@ function Navbar() {
 
       {/* Social Icons */}
       <div className="flex items-center gap-6 text-2xl">
-        <a href="https://www.linkedin.com" target="_blank">
+        <a href="https://www.linkedin.com" target="_blank" className="text-blue-500">
           <FaLinkedin />
         </a>
-        <a href="https://www.instagram.com" target="_blank">
+        <a href="https://www.instagram.com" target="_blank" className="text-red-600">
           <FaInstagram />
         </a>
         <a href="https://www.github.com" target="_blank">
           <FaGithub />
         </a>
-        <a href="https://www.facebook.com" target="_blank">
-          <FaFacebook />
+        
+        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+        <FaTwitter className="text-blue-400" />
         </a>
       </div>
     </nav>
