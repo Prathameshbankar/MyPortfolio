@@ -9,8 +9,7 @@ function Contact() {
             <p>{CONTACT.phoneNo}</p>
             <p>{CONTACT.email}</p>
         </div>
-      
-    </div>
+      </div>
   )
 }
 

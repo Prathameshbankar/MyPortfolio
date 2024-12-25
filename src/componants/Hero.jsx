@@ -15,7 +15,6 @@ function Hero() {
   return (
     <div className="mx-8 lg:mx-28 border-b border-neutral-900 pb-8 lg:pb-12">
       <div className="flex flex-wrap items-center">
-        {/* Left Content */}
         <div className="w-full lg:w-1/2 mb-8 lg:mb-0">
           <div className="flex flex-col items-center lg:items-start">
             <motion.h1 
@@ -35,7 +34,7 @@ function Hero() {
           variants={container(1)}
           initial = "hidden"
           animate = "visible" 
-           className="my-4 max-w-xl py-6 font-light tracking-tight text-center lg:text-left">
+           className="my-4 max-w-xl py-6 font-light tracking-tight text-center lg:text-left ">
             {HERO_CONTENT}
           </motion.p>
         </div>
