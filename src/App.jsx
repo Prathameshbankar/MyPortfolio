@@ -6,7 +6,6 @@ import Navbar from './componants/Navbar';
 import Project from './componants/Project';
 import Technologies from './componants/Technologies';
 
-
 function App() {
   return (
     <div className="relative min-h-screen w-full bg-slate-950 overflow-hidden text-white">
@@ -18,7 +17,7 @@ function App() {
       <About/>
       <Technologies/>
       <Project/>  
-      <Contact/>
+      {/* <Contact/> */}
       <Footer/>
     </div>
   );

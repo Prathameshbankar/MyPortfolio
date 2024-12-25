@@ -9,7 +9,7 @@ function Project() {
     <div className="border-b border-neutral-900 mb-24">
       <h1 className="text-4xl font-bold text-center text-white mb-10">Projects</h1>
       <div className="flex flex-wrap items-center justify-evenly gap-6 text-black">
-        <div className=" text-white rounded-lg w-full border-4 border-neutral-800 sm:w-96 p-5 max-sm:mx-5" >
+        <div className=" text-white rounded-lg w-full border-4 border-neutral-800 sm:w-96 p-5 max-sm:mx-5 hover:transition duration-500 hover:scale-105" >
           <div className="mb-4">
             <img
               src={pro}
@@ -21,11 +21,11 @@ function Project() {
           Ecommerce Website for funrniture Mall- Web Development
           </p>
           <button className="px-4 py-2 bg-white text-black font-semibold rounded hover:bg-yellow-400 transition">
-            Gihub Link
+            Github Link
           </button>
         </div>
 
-        <div className=" text-white rounded-lg w-full border-4 border-neutral-800 sm:w-96 p-5 max-sm:mx-5">
+        <div className=" text-white rounded-lg w-full border-4 border-neutral-800 sm:w-96 p-5 max-sm:mx-5 hover:transition duration-500 hover:scale-105">
           <div className="mb-4">
             <img
               src={erp}
@@ -37,10 +37,10 @@ function Project() {
           ERP System for school Management system
           </p>
           <button className="px-4 py-2 bg-white text-black font-semibold rounded hover:bg-yellow-400 transition">
-          Gihub Link
+          Github Link
           </button>
         </div>
-         <div className=" text-white border-4 border-neutral-800 rounded-lg w-full sm:w-96 p-5 max-sm:mx-5">
+         <div className=" text-white border-4 border-neutral-800 rounded-lg w-full sm:w-96 p-5 max-sm:mx-5 hover:transition duration-500 hover:scale-105">
           <div className="mb-4">
             <img
               src={crop}
@@ -52,10 +52,10 @@ function Project() {
           Crop Rates Prediction -ML Project
           </p>
           <button className="px-4 py-2 bg-white text-black font-semibold rounded hover:bg-yellow-400 transition">
-          Gihub Link
+          Github Link
           </button>
         </div>
-        <div className=" text-white border-4 border-neutral-800 rounded-lg w-full sm:w-96 p-5 max-sm:mx-5">
+        <div className=" text-white border-4 border-neutral-800 rounded-lg w-full sm:w-96 p-5 max-sm:mx-5 hover:transition duration-500 hover:scale-105">
           <div className="mb-4">
             <img
               src={car}
@@ -67,10 +67,10 @@ function Project() {
           Car Rental Web Application
           </p>
           <button className="px-4 py-2 bg-white text-black font-semibold rounded hover:bg-yellow-400 transition">
-          Gihub Link
+          Github Link
           </button>
         </div>
-        <div className=" text-white border-4 border-neutral-800 rounded-lg w-full sm:w-96 p-5 max-sm:mx-5">
+        <div className=" text-white border-4 border-neutral-800 rounded-lg w-full sm:w-96 p-5 max-sm:mx-5 hover:transition duration-500 hover:scale-105">
           <div className="mb-4">
             <img
               src={uber}
@@ -82,7 +82,7 @@ function Project() {
           Uber Front End Clone
           </p>
           <button className="px-4 py-2 bg-white text-black font-semibold rounded hover:bg-yellow-400 transition">
-          Gihub Link
+          Github Link
           </button>
         </div>
       </div>
